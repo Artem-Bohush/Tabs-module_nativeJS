@@ -76,4 +76,4 @@ Next step - add tabs.js to you project and import this module. Then just call a 
  ```
  tabs('info-header', 'info-header-tab', 'info-tabcontent');
  ```
-The example has only four tabs, but you can easily scale it by adding the same blocks of tabs to your site layout, as much as necessary.
+The example has only four tabs, but you can easily scale it by adding the same blocks with tab title and tab content to your site layout, as much as necessary.
