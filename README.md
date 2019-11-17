@@ -4,15 +4,14 @@
   Your layout should contains next code structure:
 ```
 <div class="info">
-
+  <!-- there is tab title block below -->
   <div class="info-header">
     <div class="info-header-tab">Tab1-title</div>
     <div class="info-header-tab">Tab2-title</div>
     <div class="info-header-tab">Tab3-title</div>
     <div class="info-header-tab">Tab4-title</div>
   </div>
-
-
+  <!-- then the same blocks with tab content -->
   <div class="info-tabcontent">
     <div class="description">
       <div class="description-title">Tab1-description-title</div>
@@ -26,7 +25,6 @@
       <img src="img/massage.jpg" alt="Massage">
     </div>
   </div>
-
   <div class="info-tabcontent">
     <div class="description">
       <div class="description-title">Tab2-description-title</div>
@@ -40,7 +38,6 @@
       <img src="img/sunset.jpg" alt="sunset">
     </div>
   </div>
-
   <div class="info-tabcontent">
     <div class="description">
       <div class="description-title">Tab3-description-title</div>
@@ -54,7 +51,6 @@
       </div>
     </div>
   </div>
-
   <div class="info-tabcontent">
     <div class="description">
       <div class="description-title">Tab4-description-title</div>
