@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/massage.jpg" alt="Massage">
+      <img src="link-img1" alt="img1">
     </div>
   </div>
   <div class="info-tabcontent">
@@ -35,7 +35,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/sunset.jpg" alt="sunset">
+      <img src="link-img2" alt="img2">
     </div>
   </div>
   <div class="info-tabcontent">
@@ -47,7 +47,7 @@
         aut inventore reprehenderit veritatis!
       </div>
       <div class="photo">
-        <img src="img/sunrise.jpg" alt="sunrise">
+        <img src="link-img3" alt="img3">
       </div>
     </div>
   </div>
@@ -62,10 +62,9 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/yoga.jpg" alt="yoga">
+      <img src="link-img4" alt="img4">
     </div>
   </div>
-
 </div>
 ```
 Next step - add tabs.js to you project and import this module. Then just call a function with passing corresponding classes to it(in the appropriate order):
